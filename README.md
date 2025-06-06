@@ -69,4 +69,8 @@ This project focuses on analyzing sentiment in movie reviews using **Natural Lan
 - `README.md`: Project documentation
 
 
+> 📁 **Note**: Due to file size limitations, the dataset is not uploaded here.  
+> You can download the dataset directly from [Kaggle - IMDB Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
+
+
 
